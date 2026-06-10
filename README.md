@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Repunjay9161/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0035-search-insert-position](https://github.com/Repunjay9161/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Repunjay9161/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Repunjay9161/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Matrix
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Repunjay9161/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Repunjay9161/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/Repunjay9161/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
