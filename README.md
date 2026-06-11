@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Repunjay9161/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0022-generate-parentheses](https://github.com/Repunjay9161/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Repunjay9161/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Repunjay9161/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Repunjay9161/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Repunjay9161/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0392-is-subsequence](https://github.com/Repunjay9161/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/Repunjay9161/Leetcode/tree/main/0394-decode-string/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Repunjay9161/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
